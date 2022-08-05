@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://alokc296.github.io/csb-915c9i/static/css/main.3be67929.chunk.css",
+    "main.js": "https://alokc296.github.io/csb-915c9i/static/js/main.6f9f189c.chunk.js",
+    "main.js.map": "https://alokc296.github.io/csb-915c9i/static/js/main.6f9f189c.chunk.js.map",
+    "runtime-main.js": "https://alokc296.github.io/csb-915c9i/static/js/runtime-main.2e3aea67.js",
+    "runtime-main.js.map": "https://alokc296.github.io/csb-915c9i/static/js/runtime-main.2e3aea67.js.map",
+    "static/js/2.b0504009.chunk.js": "https://alokc296.github.io/csb-915c9i/static/js/2.b0504009.chunk.js",
+    "static/js/2.b0504009.chunk.js.map": "https://alokc296.github.io/csb-915c9i/static/js/2.b0504009.chunk.js.map",
+    "index.html": "https://alokc296.github.io/csb-915c9i/index.html",
+    "static/css/main.3be67929.chunk.css.map": "https://alokc296.github.io/csb-915c9i/static/css/main.3be67929.chunk.css.map",
+    "static/js/2.b0504009.chunk.js.LICENSE.txt": "https://alokc296.github.io/csb-915c9i/static/js/2.b0504009.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e3aea67.js",
+    "static/js/2.b0504009.chunk.js",
+    "static/css/main.3be67929.chunk.css",
+    "static/js/main.6f9f189c.chunk.js"
+  ]
+}
